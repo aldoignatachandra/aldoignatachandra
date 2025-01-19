@@ -7,6 +7,6 @@
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)][steam]
 
-[instagram]: https://instagram.com/w.ridiansyah
-[linkedin]: https://linkedin.com/in/wahyuridiansyah
-[steam]: https://steamcommunity.com/id/ridiansyah
+[instagram]: https://instagram.com/aldoignatachandra
+[linkedin]: https://linkedin.com/in/aldo-ignata-chandra-295545147
+[steam]: https://steamcommunity.com/id/fromthenewworld
