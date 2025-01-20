@@ -11,7 +11,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)][gitlab]
 
 [instagram]: https://instagram.com/aldoignatachandra
-[linkedin]: https://linkedin.com/in/aldo-ignata-chandra-295545147
+[linkedin]: https://linkedin.com/in/aldoignatachandra
 [steam]: https://steamcommunity.com/id/fromthenewworld
 [github]: https://github.com/aldoignatachandra
 [gitlab]: https://gitlab.com/aldoignatachandra
