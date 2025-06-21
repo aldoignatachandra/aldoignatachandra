@@ -31,5 +31,5 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aldoignatachandra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/aldoignatachandra">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoignatachandra&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoignatachandra&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
